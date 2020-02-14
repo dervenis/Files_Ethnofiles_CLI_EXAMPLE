@@ -200,7 +200,7 @@
 5.OTHER NOTES
 ---------------------------------------------------------------------------------
 
-** When the CLI is used with the sandboxes, the same user (e.g MyUser) must exist in both File Api Sandbox and Ethnofiles Api Sandbox.
-
+1. When the CLI is used with the sandboxes, the same user (e.g MyUser) must exist in both File Api Sandbox and Ethnofiles Api Sandbox.
+2. If you are using the File API under a corporate organization with an organizational user structure in your internet banking, your actions will follow the approval schema of your organization.
 
 **END**
